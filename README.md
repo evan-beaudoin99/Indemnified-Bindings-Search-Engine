@@ -1,6 +1,7 @@
 # Indemnified-Bindings-Search-Engine
 
-(Server May Not be Running as it runs on a Linux Box)
+(Server May Not be Running as it runs on a Linux Box) \n
+Here is the link anyway \n
 http://cmu3beaudoin.tplinkdns.com
 
 Here are some examples of the website running:
