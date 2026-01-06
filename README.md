@@ -1,4 +1,4 @@
-# Indemnified-Bindings-Search-Engine
+# Indemnified Bindings Web App
 
 
 ## Description:   
