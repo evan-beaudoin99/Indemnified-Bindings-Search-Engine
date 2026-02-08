@@ -8,7 +8,7 @@ This is a PHP and MySQL server which stores ski bindings in a relational databas
 Here is the link:  
 http://cmu3beaudoin.tplinkdns.com
 
-Here are some examples of the website running:
+Here are some examples of the website running: (not right now it does not look pretty with very minimal feautures as this is just a beta version of the app)
 ![Alt text](screenshots/screenshot1.png)
 
 ![Alt text](screenshots/screenshot2.png)
